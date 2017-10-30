@@ -10,7 +10,7 @@ title: C++ If Statement
 * The if statement uses relational and logical operators to make logical expressions.
 
   -----------------------------------------------
-  The general form of if statement:
+  The general form of an if statement:
 
  if (Test Expression / Condition )
   {
@@ -24,7 +24,7 @@ code inside the if statement is executed.
 If the value of your test expression is ***false***, then the block of
 code inside the if statement is skipped and your code continues.
 
-Example of If Statement:
+Example of an If Statement:
 ```cpp
 
   int a= 10;
@@ -90,7 +90,7 @@ This step is always printed
 <a href='https://repl.it/Mg9X' target='_blank' rel='nofollow'>Try the code yourself ! :) </a>
 
 
-_CONGRATULATIONS . This is the end of the article on the IF statement_ 
+_CONGRATULATIONS. This is the end of the article on the IF statement_ 
  
  **Good Luck to all of you** 
  
