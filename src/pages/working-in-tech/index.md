@@ -3,15 +3,15 @@ title: Working in Tech
 ---
 # Working in Tech
 
-A wide variety of technology-related fields such as web development, design, data science, and product management are often lumped into the catch-all term "tech."
+A wide variety of technology-related fields such as web development, design, data science, and product management are often lumped into the catch-all term "tech".
 
-This section will focus on various aspects of working in tech. We will discuss the additional career challenges that under-represented minorities and people from non-traditional education backgrounds face.
+This section will focus on various aspects of working in tech. We will discuss the additional career challenges that underrepresented minorities and people from non-traditional education backgrounds face.
 
 ## Books to read
 
 Talk Python is a great podcast for novices and experts.
 
-Recently Timo Koola provided 10 books every developer should read.
+Recently, Timo Koola provided 10 books every developer should read.
 
 The following four are relevant in all walks of life:
 
